@@ -62,3 +62,12 @@ SQL was used to analyze new and repeat customer trends.
 ## Insight:
 New customers peaked in January but declined later.
 Repeat customers peaked in June with 10.3K, showing strong brand loyalty.
+
+## Conclusion
+Customers leave after 3-4 months, better offers can help.
+
+Most sales come from the UK, selling in more countries can reduce risk.
+
+30% of products make 80% sales, focus on these products for marketing.
+
+432 loyal customers found, offering them exclusive deals can increase sales.
